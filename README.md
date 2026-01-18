@@ -5,10 +5,10 @@ _**Nascent Scorecard**_
 
 - **Sommarin, Mikael NE, et al. "Single-cell multiomics of human fetal hematopoiesis define a developmental-specific population and a fetal signature." Blood Advances 7.18 (2023): 5325-5340**
   - Fetal Liver
-  - FL1_hpc_CS22
-  - FL2_hpc_CS22
-  - FL_CS16_W9
-  - Details: Lin-CD34_, FACS sorter, 3' RNA+epitotpe
+    - FL1_hpc_CS22
+    - FL2_hpc_CS22
+    - FL_CS16_W9
+    - Details: Lin-CD34_, FACS sorter, 3' RNA+epitotpe
 
 - **Zheng Z, He H, Tang XT, et al. Uncovering the emergence of HSCs in the human fetal bone marrow by single-cell RNA-seq analysis. Cell Stem Cell. 2022;29(11):1562-1579.e7. doi:10.1016/j.stem.2022.10.005**
   - Fetal Bone Marrow
@@ -44,10 +44,10 @@ _**Nascent Scorecard**_
 
 - **Sommarin, Mikael NE, et al. "Single-cell multiomics of human fetal hematopoiesis define a developmental-specific population and a fetal signature." Blood Advances 7.18 (2023): 5325-5340**
   - Fetal Liver
-  - FL1_hpc_CS22
-  - FL2_hpc_CS22
-  - FL_CS16_W9
-  - Details: Lin-CD34_, FACS sorter, 3' RNA+epitotpe
+    - FL1_hpc_CS22
+    - FL2_hpc_CS22
+    - FL_CS16_W9
+    - Details: Lin-CD34_, FACS sorter, 3' RNA+epitotpe
 
 - **Zheng Z, He H, Tang XT, et al. Uncovering the emergence of HSCs in the human fetal bone marrow by single-cell RNA-seq analysis. Cell Stem Cell. 2022;29(11):1562-1579.e7. doi:10.1016/j.stem.2022.10.005**
   - Fetal Bone Marrow
