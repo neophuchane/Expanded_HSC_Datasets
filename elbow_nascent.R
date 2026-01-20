@@ -4,9 +4,6 @@ library(hdf5r)
 library(ggplot2)
 library(dplyr)
 
-# =============================================================================
-# LOAD FROM RAW FILES - NO OLD R OBJECTS
-# =============================================================================
 
 # STEP 1: Load AGM data from CSV files
 message("Loading AGM CSV files...")
