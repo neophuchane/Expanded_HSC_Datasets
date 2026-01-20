@@ -69,8 +69,7 @@ _**Nascent Scorecard**_
     - Details: Lin low, CD45+, CD34+
  
 
-- **Calvanese V, Capellera-Garcia S, Ma F, et al. Mapping human haematopoietic stem cells from haemogenic endothelium to birth. Nature. 2022;604:534‑540. doi:10.1038/s41586-022-04571-x
-**
+- **Calvanese V, Capellera-Garcia S, Ma F, et al. Mapping human haematopoietic stem cells from haemogenic endothelium to birth. Nature. 2022;604:534‑540. doi:10.1038/s41586-022-04571-x**
   - AGM
     - Agm-4wk-658
     - Agm-5wk-555
