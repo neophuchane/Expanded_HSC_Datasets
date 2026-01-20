@@ -6,9 +6,6 @@ library(hdf5r)
 library(ggplot2)
 library(dplyr)
 
-# =============================================================================
-# LOAD FROM RAW FILES - NO OLD R OBJECTS
-# =============================================================================
 
 # STEP 1: Load AGM data from CSV files
 message("Loading AGM CSV files...")
@@ -235,5 +232,6 @@ saveRDS(agm, "agm_processed.rds")
 saveRDS(somarin, "somarin_processed.rds")
 saveRDS(bone_marrow, "bone_marrow_processed.rds")
 saveRDS(spleen, "spleen_processed.rds")
+
 
 message("\n=== COMPLETE ===")
