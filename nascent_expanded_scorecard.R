@@ -215,6 +215,9 @@ print(p_unified)
 
 dev.off()
 
+saveRDS(combined, "combined_expanded_scorecard.rds")
+  message("Saved: combined_expanded_scorecard.rds")
+
 message("\n=== Finding markers ===")
 agm_markers <- FindAllMarkers(agm, only.pos = TRUE, min.pct = 0.25, logfc.threshold = 0.25)
 write.csv(agm_markers, "AGM_markers.csv", row.names = FALSE)
@@ -235,3 +238,4 @@ saveRDS(spleen, "spleen_processed.rds")
 
 
 message("\n=== COMPLETE ===")
+
