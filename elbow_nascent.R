@@ -84,10 +84,10 @@
     seurat_obj <- NormalizeData(seurat_obj, verbose = FALSE)
     seurat_obj <- FindVariableFeatures(seurat_obj, nfeatures = 2000)
     seurat_obj <- ScaleData(seurat_obj)
-    seurat_obj <- RunPCA(seurat_obj, npcs = 15, verbose = FALSE)
+    seurat_obj <- RunPCA(seurat_obj, npcs = 60, verbose = FALSE)
 
     pdf(paste0(stage_name, "_elbow_plot.pdf"), width = 10, height = 6)
-    print(ElbowPlot(seurat_obj, ndims = 15))
+    print(ElbowPlot(seurat_obj, ndims = 60))
     dev.off()
     message(paste("Saved:", paste0(stage_name, "_elbow_plot.pdf")))
   }
