@@ -1,6 +1,6 @@
  # Expanded HSC Datasets
 
-  Expanded scRNA-seq datasets and scorecards for nascent and mature HSCs.
+  Expanded scRNA-seq datasets, scorecards, and elbow plots for nascent and mature HSCs.
 
   ## Data Access
 
