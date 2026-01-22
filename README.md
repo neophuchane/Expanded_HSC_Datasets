@@ -1,7 +1,26 @@
-# Expanded_HSC_Datasets
-Expanded scRNA-seq datasets and scorecards for nascent and mature HSCs
+ # Expanded HSC Datasets
 
-Scorecards and R objects can be found here: https://ucla.box.com/s/49kwzgg65j68uo4q29cic9i0pkar4g1u
+  Expanded scRNA-seq datasets and scorecards for nascent and mature HSCs.
+
+  ## Data Access
+
+  Scorecards and R objects: [UCLA Box](https://ucla.box.com/s/49kwzgg65j68uo4q29cic9i0pkar4g1u)
+
+  **Contents:**
+  - `combined_seurat.rds` — Merged Seurat object with all datasets
+  - Nascent and Mature scorecard R objects
+  - Elbow plots (PDF)
+  - Analysis slideshow (PDF)
+
+  ---
+
+  ## Overview
+
+  This repository contains integrated single-cell RNA-seq data spanning human HSC development from emergence to
+  maturity. Two gene signature scorecards are provided:
+
+  - **Nascent Scorecard** — Identifies emerging HSCs (AGM stage)
+  - **Mature Scorecard** — Identifies fully mature HSCs
 
 _**Nascent Scorecard**_
 
@@ -48,7 +67,7 @@ _**Nascent Scorecard**_
     - FL1_hpc_CS22
     - FL2_hpc_CS22
     - FL_CS16_W9
-    - Details: Lin-CD34_, FACS sorter, 3' RNA+epitotpe
+    - Details: Lin-CD34+, FACS sorter, 3' RNA+epitotpe
 
 - **Zheng Z, He H, Tang XT, et al. Uncovering the emergence of HSCs in the human fetal bone marrow by single-cell RNA-seq analysis. Cell Stem Cell. 2022;29(11):1562-1579.e7. doi:10.1016/j.stem.2022.10.005**
   - Fetal Bone Marrow
