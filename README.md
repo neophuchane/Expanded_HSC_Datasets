@@ -1,6 +1,8 @@
 # Expanded_HSC_Datasets
 Expanded scRNA-seq datasets and scorecards for nascent and mature HSCs
 
+Scorecards and R objects can be found here: https://ucla.box.com/s/49kwzgg65j68uo4q29cic9i0pkar4g1u
+
 _**Nascent Scorecard**_
 
 - **Sommarin, Mikael NE, et al. "Single-cell multiomics of human fetal hematopoiesis define a developmental-specific population and a fetal signature." Blood Advances 7.18 (2023): 5325-5340**
