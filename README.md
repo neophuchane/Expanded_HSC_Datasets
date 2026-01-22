@@ -7,7 +7,6 @@
   Scorecards and R objects: [UCLA Box](https://ucla.box.com/s/49kwzgg65j68uo4q29cic9i0pkar4g1u)
 
   **Contents:**
-  - `combined_seurat.rds` — Merged Seurat object with all datasets
   - Nascent and Mature scorecard R objects
   - Elbow plots (PDF)
   - Analysis slideshow (PDF)
