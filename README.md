@@ -18,7 +18,7 @@
   This repository contains integrated single-cell RNA-seq data spanning human HSC development from emergence to
   maturity. Two gene signature scorecards are provided:
 
-  - **Nascent Scorecard** — Identifies emerging HSCs (AGM stage)
+  - **Nascent Scorecard** — Identifies emerging HSCs 
   - **Mature Scorecard** — Identifies fully mature HSCs
 
 _**Nascent Scorecard**_
