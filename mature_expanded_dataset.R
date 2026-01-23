@@ -184,7 +184,7 @@ if(all(developmental_order %in% unique(combined$orig.ident))) {
   combined$orig.ident <- factor(combined$orig.ident, levels = developmental_order)
   message("✓ Developmental order set successfully!")
 } else {
-  message("⚠ WARNING: Some sample names don't match.")
+  message("WARNING: Some sample names don't match.")
   message("Missing from combined data:")
   missing <- setdiff(developmental_order, unique(combined$orig.ident))
   for(m in missing) message(paste("  -", m))
@@ -223,4 +223,5 @@ message("Scorecard plot saved as PDF.")
 message("Saving combined object...")
 saveRDS(combined, file = "combined_expanded_maturation_scorecard.rds")
 message("Combined object saved.")
+
 message("Analysis complete!")
